@@ -1,5 +1,4 @@
-// Lab9B
-// Programmer: Luke Tascone 
+
 
 #include <iostream>
 #include <memory> 
